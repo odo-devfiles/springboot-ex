@@ -12,7 +12,7 @@ public class DemoApplication {
 
     @RequestMapping("/")
     String home() {
-        return "Hello World! test da luciano grippa modificato il 23/11/2021";
+        return "Hello World! test da luciano grippa modificato il 23/11/2021 ore 09:37";
     }
 
     public static void main(String[] args) {
